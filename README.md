@@ -10,4 +10,4 @@ And if you’re interested in Next.js, also [check out the book I wrote about it
 
 Example: My own Profile cypghost business card
 
-https://github-business-card.vercel.app/api/github?username=cypghost
+![cypghost’s GitHub image](https://github-business-card.vercel.app/api/github?username=cypghost)
